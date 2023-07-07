@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Cade Nordgren's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Cade Nordgren
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="cadenordgren@gmail.com">cadenordgren@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/cadenordgren">LinkedIn</a>
+| <a href="https://cade-nordgren.github.io/nordgren_resume/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
