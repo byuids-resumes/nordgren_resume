@@ -20,7 +20,8 @@ text
 __Brigham Young University - Idaho__, _Rexburg, ID_
 - Bachelor of Science in Business Analytics
 - _Minor in Statistics_
-- • 4.0 Major GPA
+- • 4.0 GPA
+- • Full academic scholarship
 
 __Relevant Course Work__
 - • Python Data Science Programming
@@ -36,11 +37,13 @@ __Relevant Course Work__
 `July 2022 - Present`
 __OptimalShip__, _Rexburg, ID_
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- • Design reports and dashboards in PowerBI for the CEO
+- • Build tools in Excel and VBA to increase sales team productivity
+- • Analyze key performance indicators to make personalized, informed employee training improvements 
+- • Assist in analysis of client shipping trends to predict where sales efforts are best focued
 
-`January 2028 - June 2028`
+### Excel Specialist
+`June 2022`
 __Koru Anasthesia__, _Clovis, NM_
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
