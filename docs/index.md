@@ -6,7 +6,7 @@ title: Cade Nordgren's Resume
 text
 
 <div id="webaddress">
-<a href="cadenordgren@gmail.com">cadenordgren@gmail.com</a>
+<a href="mailto:cadenordgren@gmail.com">cadenordgren@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/cadenordgren">LinkedIn</a>
 | <a href="https://cade-nordgren.github.io/nordgren_resume/">GitHub</a>
