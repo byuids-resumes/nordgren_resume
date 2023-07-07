@@ -7,20 +7,26 @@ text
 
 <div id="webaddress">
 <a href="mailto:cadenordgren@gmail.com">cadenordgren@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/cadenordgren">LinkedIn</a>
-| <a href="https://cade-nordgren.github.io/nordgren_resume/">GitHub</a>
+| <a href="https://www.linkedin.com/in/cadenordgren/">LinkedIn</a>
+| <a href="https://cade-nordgren.github.io">GitHub</a>
+<a href="https://byuidatascience.github.io">BYU-I Data Science Program</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+`Expected 2024`
+__Brigham Young University - Idaho__, _Rexburg, ID_
 - Bachelor of Science in Business Analytics
 - Minor in Statistics
 - • 4.0 Major GPA
+
+__Relevant Course Work__
+- • Python Data Science Programming
+- • Advanced Excel Application & Analysis
+- • Data Intuition & Insight
+- •	Introduction to SQL Databases
 
 
 ## Related Experience
