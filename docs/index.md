@@ -3,7 +3,7 @@ layout: cv
 title: Cade Nordgren's Resume
 ---
 # Cade Nordgren
-
+text
 
 <div id="webaddress">
 <a href="cadenordgren@gmail.com">cadenordgren@gmail.com</a>
@@ -15,11 +15,6 @@ title: Cade Nordgren's Resume
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
-
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
