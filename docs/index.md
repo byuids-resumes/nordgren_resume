@@ -19,7 +19,7 @@ text
 `Expected 2024`
 __Brigham Young University - Idaho__, _Rexburg, ID_
 - Bachelor of Science in Business Analytics
-- Minor in Statistics
+- _Minor in Statistics_
 - • 4.0 Major GPA
 
 __Relevant Course Work__
