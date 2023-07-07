@@ -3,7 +3,6 @@ layout: cv
 title: Cade Nordgren's Resume
 ---
 # Cade Nordgren
-text
 
 <div id="webaddress">
 <a href="mailto:cadenordgren@gmail.com">cadenordgren@gmail.com</a>
@@ -46,9 +45,9 @@ __OptimalShip__, _Rexburg, ID_
 `June 2022`
 __Koru Anasthesia__, _Clovis, NM_
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- • Patched VBA bugs on the client's existing Excel-based employee scheduling tool
+- • Added capability for the company to add or remove emolpyees to/from the schedule
+- • Created a dashboard with the option of a monthly, quarterly, or yearly summary by use of radio buttons
 
 ### Data Science Lead
 
