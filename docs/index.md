@@ -1,55 +1,51 @@
 ---
 layout: cv
-title: Cade Nordgren's Resume
+title: Brigham Young's Resume
 ---
-# Cade Nordgren
+# Brigham Young
+The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="nordgrencade@gmail.com">nordgrencade@gmail.com</a>
-| <a href="https://www.linkedin.com/in/cadenordgren/">LinkedIn</a>
-| <a href="https://github.com/cade-nordgren">GitHub</a>
+<a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
- `Expected 2024` __Bachelor of Science in Business Analytics__
 
-Brigham Young University - Idaho, _Rexburg, ID_
+`2025-2027`
+__LDS Business College__, Salt Lake City, UT
 
-- Minor in Statistics
 - Full academic scholarship with 4.0 GPA
 
-Relevant Course Work
+`Expected 2029`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Tableau & Microsoft PowerBI
-- Introduction to SQL Databases
-- Advanced Excel Application & Analysis
-- Python Data Science Porgramming
+- 4.0 Major GPA
 
 
 ## Related Experience
 
-### Business Analyst
+### Internships
 
-`June 2022 - Present`
-__OptimalShip__, _Rexburg, ID_
+`January 2028 - June 2028`
+__Pacific Northwest National Lab__, Richland, WA
+
+- Worked on novel methods for soil sampling to reduce laboratory measurements
+- Used R and Visual Sample Plan to establish new sampling algorithms
+- Published a journal article in Environmental Quality.
+
+### Data Science Lead
+
+`April 2027 - June 2027`
+__Westmark Credit Union__, Consultant
 
 - Developed a predicted model to support Westmark in custumer conversion from dealer loans.
 - Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
 - Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-### Excel & VBA Specialist
-
-`July 2022`
-__Koru Anasthesia__, _Clovis, NM_
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental
-
-
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
@@ -74,13 +70,19 @@ __Pinnacle Management Group__,
 - Built and documented differences of PowerBI, Google Dashoards, and Tableau.
 - Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
-## Service and Work History
- `2019-2021` 
- __Full-Time Volunteer Representative__ 
 
- The Church of Jesus Christ of Latter-day Saints, Sweden
+## Service and Work History
+
+`2025-2027`
+__Math Tutor__, LDSBC
+
+
+`2023-2025`
+__Service Missionary__, South Africa
+
+
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
 
