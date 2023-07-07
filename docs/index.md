@@ -8,8 +8,8 @@ text
 <div id="webaddress">
 <a href="mailto:cadenordgren@gmail.com">cadenordgren@gmail.com</a>
 | <a href="https://www.linkedin.com/in/cadenordgren/">LinkedIn</a>
-| <a href="https://cade-nordgren.github.io">GitHub</a>
-<a href="https://byuidatascience.github.io">BYU-I Data Science Program</a>
+| <a href="https://github.com/cade-nordgren">GitHub</a>
+| <a href="https://byuidatascience.github.io">BYU-I Data Science Program</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -29,12 +29,19 @@ __Relevant Course Work__
 - •	Introduction to SQL Databases
 
 
-## Related Experience
+## Experience
 
-### Internships
+### Business Analyst
+
+`July 2022 - Present`
+__OptimalShip__, _Rexburg, ID_
+
+- Worked on novel methods for soil sampling to reduce laboratory measurements
+- Used R and Visual Sample Plan to establish new sampling algorithms
+- Published a journal article in Environmental Quality.
 
 `January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Koru Anasthesia__, _Clovis, NM_
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
@@ -80,7 +87,8 @@ __Math Tutor__, LDSBC
 
 
 `2023-2025`
-__Service Missionary__, South Africa
+### Full-Time Volunteer Representative
+__The Church of Jesus Christ of Latter-day Saints__, Sweden
 
 
 
