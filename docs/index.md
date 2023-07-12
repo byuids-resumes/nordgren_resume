@@ -61,6 +61,7 @@ __The Church of Jesus Christ of Latter-day Saints__, _Sweden Stockholm_
 - •	Facilitated bi-weekly international training meetings with 100+ social media specialists
 
 ## Skills
+__Relevant Skills__
 - •	Tableau & PowerBI
 - • Python, Pandas, Altiar
 - •	SQL
