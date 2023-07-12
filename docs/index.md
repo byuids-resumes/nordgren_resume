@@ -41,56 +41,24 @@ __OptimalShip__, _Rexburg, ID_
 - • Analyze key performance indicators to make personalized, informed employee training improvements 
 - • Assist in analysis of client shipping trends to predict where new clients are likely found
 - • Automate wrangling of business lead data for upload, tracking, and distribution within HubSpot CRM pipelines
+- • Screen resumes, interview canidates, and hire new employees
 
 ### Excel Specialist
 `June 2022`
 __Koru Anasthesia__, _Clovis, NM_
-- • Patched VBA bugs on the client's existing Excel-based employee scheduling tool
-- • Added capability for the company to add or remove emolpyees to/from the schedule
+- • Patched VBA bugs on the client's existing, Excel-based employee scheduling tool
+- • Added capability for the company to add or remove emolpyees to/from the schedule via VBA command buttons
+- • Developed a sheet summing the number of vacation days both schduled and already taken by each employee monthly, quarterly, yearly, and in the prior year
 - • Created a dashboard with the option of a monthly, quarterly, or yearly graphical summary by use of radio buttons
 
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
 ## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
+`2021-2023`
 ### Full-Time Volunteer Representative
-__The Church of Jesus Christ of Latter-day Saints__, Sweden
+__The Church of Jesus Christ of Latter-day Saints__, 
+- •	Analyzed Facebook and Instagram advertisement data for daily, weekly, and monthly trends
+- • Improved Meta advertisement CTR by 5000% and monthly lead count by 3000% within six months
+- •	Reported finance and advertisement results to Mission President weekly
+- •	Facilitated bi-weekly international training meetings with 100+ social media specialists
 
 
 
