@@ -36,18 +36,18 @@ __Relevant Course Work__
 `July 2022 - Present`
 __OptimalShip__, _Rexburg, ID_
 
-- • Design reports and dashboards in PowerBI for the CEO
-- • Build tools in Excel and VBA to increase sales team productivity
+- • Design reports and dashboards in PowerBI for the CEO and the Director Of Strategic Sales at DHL
+- • Build tools in Excel and VBA to increase both managerial and sales team productivity
 - • Analyze key performance indicators to make personalized, informed employee training improvements 
-- • Assist in analysis of client shipping trends to predict where sales efforts are best focued
+- • Assist in analysis of client shipping trends to predict where new clients are likely found
+- • Automate wrangling of business lead data for upload, tracking, and distribution within HubSpot CRM pipelines
 
 ### Excel Specialist
 `June 2022`
 __Koru Anasthesia__, _Clovis, NM_
-
 - • Patched VBA bugs on the client's existing Excel-based employee scheduling tool
 - • Added capability for the company to add or remove emolpyees to/from the schedule
-- • Created a dashboard with the option of a monthly, quarterly, or yearly summary by use of radio buttons
+- • Created a dashboard with the option of a monthly, quarterly, or yearly graphical summary by use of radio buttons
 
 ### Data Science Lead
 
