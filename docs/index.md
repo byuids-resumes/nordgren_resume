@@ -52,7 +52,7 @@ __Koru Anasthesia__, _Clovis, NM_
 - • Created a dashboard with the option of a monthly, quarterly, or yearly graphical summary by use of radio buttons
 
 ## Service and Work History
-`2021-2023`
+`2021-2022`
 ### Full-Time Volunteer Representative
 __The Church of Jesus Christ of Latter-day Saints__, _Sweden Stockholm_
 - •	Analyzed Facebook and Instagram advertisement data for daily, weekly, and monthly trends
@@ -64,5 +64,5 @@ __The Church of Jesus Christ of Latter-day Saints__, _Sweden Stockholm_
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2023 -->
 
