@@ -60,6 +60,12 @@ __The Church of Jesus Christ of Latter-day Saints__, _Sweden Stockholm_
 - •	Reported finance and advertisement results to Mission President weekly
 - •	Facilitated bi-weekly international training meetings with 100+ social media specialists
 
+### Skills
+- •	Tableau & PowerBI
+- • Python, Pandas, Altiar
+- •	SQL
+- •	Excel & VBA
+- •	Fluent in Swedish
 
 
 <!-- ### Footer
