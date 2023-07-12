@@ -54,7 +54,7 @@ __Koru Anasthesia__, _Clovis, NM_
 ## Service and Work History
 `2021-2023`
 ### Full-Time Volunteer Representative
-__The Church of Jesus Christ of Latter-day Saints__, 
+__The Church of Jesus Christ of Latter-day Saints__, _Sweden Stockholm_
 - •	Analyzed Facebook and Instagram advertisement data for daily, weekly, and monthly trends
 - • Improved Meta advertisement CTR by 5000% and monthly lead count by 3000% within six months
 - •	Reported finance and advertisement results to Mission President weekly
