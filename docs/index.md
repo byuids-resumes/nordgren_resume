@@ -37,7 +37,7 @@ __Relevant Course Work__
 __OptimalShip__, _Rexburg, ID_
 
 - • Design reports and dashboards in PowerBI for the CEO and the Director Of Strategic Sales at DHL
-- • Build tools in Excel and VBA to increase both managerial and sales team productivity
+- • Build tools in Excel VBA and Python to increase both managerial and sales team productivity
 - • Analyze key performance indicators to make personalized, informed employee training improvements 
 - • Assist in analysis of client shipping trends to predict where new clients are likely found
 - • Automate wrangling of business lead data for upload, tracking, and distribution within HubSpot CRM pipelines
